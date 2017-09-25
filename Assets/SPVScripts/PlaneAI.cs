@@ -138,9 +138,10 @@ public class PlaneAI : MonoBehaviour
 
         Vector3 DirToEnmy = (m_WeaponCntrlr.SelectedTarget.position - transform.position);
         DTilt = -Vector2.Dot(transform.right, DirToEnmy.normalized);
+        //IF plane is facing the target
         if (Mathf.Abs(DTilt) < 0.2f)
         {
-
+            
             if (m_WeaponCntrlr.GetMissilesLoaded > 0)
             {
                 m_WeaponCntrlr.FireMissile();
