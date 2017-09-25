@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Plane
+  - Effect
+  - PlayerController
+  - Ship
+  - SPVGM
+  - Water
+  - GroundTarget
+  - CCIP
+  - TBox
+  - HUDCanvas
+  - CameraTarget
+  - OVTBox
+  - BombardmentPoint
+  - LockableGrndTrgt
+  - BombsText
+  - MissilesText
+  - SpeedTxt
+  - PauseM
+  - MissileUIIcon
+  - BombUIIcon
+  - MissionStatusTxt
+  - GTrgtsDestroyed
+  - AtrgtsDestroyed
+  - StatusPoints
+  - FtrgtsDestroyed
+  - HlthPnts
+  - TotalPnts
+  - RemarksTxt
+  - StatusColor
+  - SuccessM
+  - FailFade
+  - MedalImg
+  - ResumeBtn
+  - ThrottleBar
+  - AttackModeSign
+  - ShareBtn
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - GroundTarget
+  - Bomb
+  - RedTeam
+  - BlueTeam
+  - Map
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
